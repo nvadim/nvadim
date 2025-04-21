@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Технологии & Стек
 
-- **Языки:** PHP 8.3, JavaScript, SQL, Go land
+- **Языки:** PHP 8.3, JavaScript, SQL, Go lang
 - **Фреймворки:** Bitrix, Slim, Vue.js, Laravel
 - **Инструменты:** Docker, Postman, Git, Composer
 - **Базы данных:** MySQL, PostgreSQL
