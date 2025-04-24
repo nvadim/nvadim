@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 
 > _"Делай просто. Делай глубоко. Делай с кайфом."_  
 
+#bitrix #sql #js #vuejs #redis #go #git #orm #d7 #laravel
+
